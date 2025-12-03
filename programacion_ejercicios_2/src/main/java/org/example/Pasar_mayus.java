@@ -11,12 +11,10 @@ public class Pasar_mayus {
         System.out.println("Escribe cadena: ");
         String cadena = teclado.next();
 
-        String mayus = imprimirMayus(impMayus);
 
 
     }
     public static void imprimirMayus(String impMayus){
-        return 
 
 
     }
