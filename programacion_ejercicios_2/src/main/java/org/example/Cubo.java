@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Cubo {
 
-    static void main() {
+    public static void main(String[] args) {
 
         Scanner teclado = new Scanner(System.in);
 
@@ -14,8 +14,8 @@ public class Cubo {
         System.out.println(resultado);
 
     }
-        public static int cubo(int numero){
-            return numero*numero*numero;
 
+    public static int cubo(int numero){
+        return numero*numero*numero;
     }
 }
